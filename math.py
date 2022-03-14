@@ -8,5 +8,6 @@ def subtract(x,y):        # sub() fn
 def multiply(x,y):
 	return (x*y)
 #division fn()
-def divide(x,y): 
-	pass
+def divide(x,y):
+	return (x/y)
+
